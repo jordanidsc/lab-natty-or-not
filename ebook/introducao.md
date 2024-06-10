@@ -21,7 +21,7 @@ Neste e-book, exploraremos o fascinante mundo das IAs Generativas, desde suas or
 
 
 
-## [Introdução](introducao.md)
+## [Introdução]
 
 ## [Capítulo 1: A Evolução das IAs](capitulo_1.md)
 
