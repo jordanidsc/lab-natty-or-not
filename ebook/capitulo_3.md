@@ -54,4 +54,4 @@ As possibilidades são vastas e estão em constante expansão. À medida que as 
 
 Neste capítulo, exploramos apenas algumas das principais aplicações atuais das IAs Generativas. No próximo capítulo, discutiremos os desafios e considerações éticas envolvidos no desenvolvimento e uso dessas tecnologias, à medida que elas se tornam cada vez mais presentes em nossas vidas.
 
-[Página Anterior: Principais Modelos de IAs Generativas](modelos-ias-generativas.md) | [Próxima Página: Desafios e Considerações Éticas](desafios-eticos.md)
+[Página Anterior: Capítulo 2: Principais Modelos de IAs Generativas](capitulo_2.md) | [Próxima Página: Capítulo 4: Desafios e Considerações Éticas](capitulo_4.md)
