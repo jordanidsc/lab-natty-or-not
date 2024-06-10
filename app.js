@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function renderMarkdown(markdown) {
-        const htmlContent = marked(markdown);
+        const htmlContent = marked.parse(markdown);
         contentDiv.innerHTML = htmlContent;
     }
 });
