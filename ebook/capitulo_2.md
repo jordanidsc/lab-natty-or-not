@@ -27,3 +27,6 @@ O Whisper, desenvolvido pela OpenAI, é um modelo de reconhecimento de fala mult
 Além dos modelos mencionados acima, existem muitos outros projetos promissores no campo das IAs Generativas. Modelos como o Stable Diffusion e o Midjourney se concentram na geração de imagens, oferecendo novas ferramentas para artistas e designers. Já o Codex, da OpenAI, é voltado para a geração de código, auxiliando desenvolvedores em suas tarefas diárias. Cada modelo traz suas próprias especificidades e pontos fortes, contribuindo para um ecossistema diversificado e em constante evolução.
 
 Esses são apenas alguns exemplos dos principais modelos de IAs Generativas que estão moldando o futuro da tecnologia. À medida que avançamos, é empolgante imaginar as novas possibilidades e aplicações que surgirão. No próximo capítulo, exploraremos mais a fundo como essas IAs estão sendo utilizadas atualmente em diferentes setores e indústrias, revolucionando a forma como trabalhamos e criamos.
+
+
+[Página Anterior: Capítulo 1: A Evolução das IAs](capitulo_1.md) | [Próxima Página: Capítulo 3: Aplicações Atuais das IAs Generativas](capitulo_3.md)
