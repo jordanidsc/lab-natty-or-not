@@ -27,3 +27,8 @@ Por fim, é fundamental que haja responsabilidade e transparência no desenvolvi
 Além disso, é importante promover a transparência em relação ao funcionamento das IAs Generativas, permitindo que os usuários compreendam como essas tecnologias tomam decisões e geram resultados. Isso pode envolver a disponibilização de documentação clara, a realização de auditorias independentes e o engajamento ativo com a sociedade para abordar preocupações e obter feedback.
 
 Ao enfrentarmos esses desafios e considerações éticas de frente, podemos moldar um futuro em que as IAs Generativas sejam utilizadas de maneira responsável, ética e benéfica para todos. No próximo capítulo, exploraremos as perspectivas futuras para as IAs Generativas, vislumbrando as possibilidades empolgantes que nos aguardam.
+
+
+
+[Página Anterior: Capítulo 3: Aplicações Atuais das IAs Generativas](capitulo_3.md) | [Próxima Página: Capítulo 5: O Futuro das IAs Generativas](capitulo_5.md)
+
