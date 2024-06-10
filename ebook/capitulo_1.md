@@ -24,4 +24,4 @@ As IAs Generativas não apenas mimetizam o conteúdo existente, mas são capazes
 
 À medida que avançamos neste capítulo, mergulharemos mais fundo nas IAs Generativas, explorando seus principais modelos, aplicações e o impacto que elas têm em diversos setores. Prepare-se para descobrir como essas ferramentas estão redefinindo os limites do que é possível com a inteligência artificial e moldando o futuro da inovação.
 
-[Página Anterior: IA Generativa](ia-generativa.md) | [Próxima Página: Principais Modelos de IAs Generativas](modelos-ias-generativas.md)
+[Página Anterior: Sumário](indice.md) | [Próxima Página: Capítulo 2: Principais Modelos de IAs Generativas](capitulo_2.md)
