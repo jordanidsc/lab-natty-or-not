@@ -35,3 +35,8 @@ No entanto, também é crucial considerarmos os desafios e as implicações éti
 Isso envolve a criação de políticas e regulamentações adequadas, a promoção da educação e da conscientização sobre essas tecnologias, e o desenvolvimento de mecanismos para mitigar possíveis impactos negativos, como a desigualdade e a exclusão digital.
 
 Ao abraçarmos as oportunidades e enfrentarmos os desafios apresentados pelas IAs Generativas, podemos moldar um futuro em que essas tecnologias sejam ferramentas poderosas para o bem comum, ampliando nossa criatividade, conhecimento e capacidade de inovação.
+
+
+
+[Página Anterior: Capítulo 4: Desafios e Considerações Éticas](capitulo_4.md) | [Próxima Página: Conclusão](conclusao.md)
+
