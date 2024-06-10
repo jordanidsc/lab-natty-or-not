@@ -1,4 +1,4 @@
-# [Capítulo 1: A Evolução das IAs
+# Capítulo 1: A Evolução das IAs
 
 Para compreendermos verdadeiramente o impacto das IAs Generativas, é fundamental traçarmos a jornada evolutiva da inteligência artificial. Neste capítulo, exploraremos as origens das IAs, desde seus primeiros passos até as inovações que pavimentaram o caminho para as revolucionárias IAs Generativas.
 
