@@ -1,4 +1,4 @@
-![Evolução da IA](ebook/Default_A_timeline_showcasing_the_evolution_of_AI_from_early_m_0_a3c4ad74-54d2-4252-bc5f-dca34f6c26ab_0.png)
+![Evolução da IA]([ebook/Default_A_timeline_showcasing_the_evolution_of_AI_from_early_m_0_a3c4ad74-54d2-4252-bc5f-dca34f6c26ab_0.png](https://raw.githubusercontent.com/jordanidsc/lab-natty-or-not/main/ebook/Default_A_timeline_showcasing_the_evolution_of_AI_from_early_m_0_a3c4ad74-54d2-4252-bc5f-dca34f6c26ab_0.png))
 
 # **IA GENERATIVA**
 
