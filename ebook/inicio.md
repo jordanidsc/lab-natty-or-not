@@ -4,4 +4,4 @@
 
 Você descobrirá como essas tecnologias revolucionárias estão transformando a forma como criamos, inovamos e interagimos com o mundo ao nosso redor. Desde suas origens até as aplicações mais recentes, você explorará os principais modelos de IAs Generativas, como o GPT e o DALL-E, e entenderá como eles estão impactando setores diversos, desde o entretenimento até a saúde. Ao longo desta leitura envolvente, você também será convidado a refletir sobre os desafios éticos e as considerações importantes no desenvolvimento e uso dessas tecnologias.
 
-[Próxima Página: Introdução](introducao.md)
+[Próxima Página: Início](indice.md)
