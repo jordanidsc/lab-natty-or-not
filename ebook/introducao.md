@@ -23,6 +23,9 @@ Neste e-book, exploraremos o fascinante mundo das IAs Generativas, desde suas or
 
 ## você está em: Introdução
 
+[Ir para Sumário](indice.md)
+
+
 ## [Capítulo 1: A Evolução das IAs](capitulo_1.md)
 
 ## [Capítulo 2: Principais Modelos de IAs Generativas](capitulo_2.md)
